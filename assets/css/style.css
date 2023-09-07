@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+
+/* added nav to all header sections because we needed a semantic element */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -86,6 +88,8 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidated 3 sections by creating .benefit-style */
+
 .benefit-style  {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +106,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* consolidated 3 sections by creating link-style because they all had the same information */
 
 .link-style {
     margin-bottom: 20px;
