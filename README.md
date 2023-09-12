@@ -10,7 +10,7 @@ The Horiseon Marketing has reached out to have their website refactored, optimiz
 
 * Link to deployed application 
 
-![Horiseon](https://tmysterz.github.io/Refactoring-Horiseon/)
+[Horiseon](https://tmysterz.github.io/Refactoring-Horiseon/)
 
 
 
