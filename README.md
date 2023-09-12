@@ -6,7 +6,7 @@ The Horiseon Marketing has reached out to have their website refactored, optimiz
 
 * Screenshot 
 
-![The horiseon marketing website has a header title, drop down webpage links at the top of the page. Down at the bottom half of the page there are multiple sub-title with boxes of texts under them describing the sub-title](C:\Users\Owner\Homework\Homework-1\assets\tmysterz.github.io_Refactoring-Horiseon_.png)
+![Screenshot](tmysterz.github.io_Refactoring-Horiseon_.png)
 
 * Link to deployed application 
 
